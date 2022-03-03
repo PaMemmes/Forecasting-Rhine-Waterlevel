@@ -1,5 +1,5 @@
 # Forecasting-Challenge
-This repository contains code for predicting the water level of the Rhine.
+This repository contains code for predicting the water level of the Rhine using sensor data in Kaub + additional data of the DWD with the help of neural networks.
 
 ## Install
 In order to install all the dependencies via conda use the command:
